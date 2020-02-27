@@ -1,0 +1,5 @@
+name: AVCheckInventory
+author: avenda
+api: [3.0.0, 4.0.0]
+main: avenda\Inv
+version: 1.0
